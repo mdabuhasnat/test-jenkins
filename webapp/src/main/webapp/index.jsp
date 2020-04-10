@@ -7,6 +7,6 @@
 <h1> Alhamdullah !!   </h1>
 <h1> Subhanallah !!   </h1>
 <h1> ALLLAHU AKBAR !!   </h1>
-<h1> ALLLAHU AKBAR !!   </h1>
+
 
  
